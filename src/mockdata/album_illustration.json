@@ -1,0 +1,101 @@
+{
+    "artist": "Maria Tabarcea",
+    "backgroundColor": "#3d4c6c",
+    "path": "",
+    "released": 2020,
+    "album": "illustration",
+    "views": 
+    [
+        { 
+            "id": 1,
+            "album": "illustration", 
+            "path": "", 
+            "title": "A-01" 
+        },
+        { 
+            "id": 2, 
+            "album": "illustration", 
+            "path": "", 
+            "title": "B-01" 
+        },
+        { 
+            "id": 3, 
+            "album": "illustration", 
+            "path": "", 
+            "title": "C-01" 
+        },
+        { 
+            "id": 4, 
+            "album": "illustration", 
+            "path": "", 
+            "title": "D-01" 
+        },
+        { 
+            "id": 5, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "E-01" 
+        },
+        { 
+            "id": 6, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "F-01" 
+        },
+        { 
+            "id": 7, 
+            "album": "illustration",  
+            "path": "", 
+             "title": "G-01" 
+        },
+        { 
+            "id": 8, 
+            "album": "illustration", 
+            "path": "", 
+            "title": "H-01" 
+        },
+        { 
+            "id": 9, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "I-01" 
+        },
+        { 
+            "id": 10, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "J-01" 
+        },
+        { 
+            "id": 11, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "K-01" 
+        },
+        { 
+            "id": 12, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "L-01" 
+        },
+        { 
+            "id": 13, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "M-01" 
+        },
+        { 
+            "id": 14, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "new normality" 
+        },
+        { 
+            "id": 15, 
+            "album": "illustration",  
+            "path": "", 
+            "title": "premium trash" 
+        }
+    ]
+  }
+  

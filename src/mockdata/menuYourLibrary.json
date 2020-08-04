@@ -1,0 +1,12 @@
+[
+  { "id": 1, "icon": "log-out", "title": "Sign out" },
+  { "id": 2, "icon": "user", "title": "About account" },
+  { "id": 3, "icon": "upload", "title": "Your uploaded" },
+  { "id": 4, "icon": "heart", "title": "Liked" },
+  { "id": 5, "icon": "monitor", "title": "History" },
+  { "id": 6, "icon": "tablet", "title": "Albums" },
+  { "id": 7, "icon": "paperclip", "title": "Artists" },
+  { "id": 8, "icon": "info", "title": "Info" },
+  { "id": 9, "icon": "github", "title": "Github" },
+  { "id": 10, "icon": "star", "title": "Augmented Reality" }
+]
